@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="hintInput">Enter the value here</string>
+    <string name="hintOutput">Your result appears here</string>
+    <string name="defaultValue">0.0</string>
+
+    <string-array name="DDmain">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+        <item>Time</item>
+    </string-array>
+
+    <string-array name="DDfromLength">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Light Year</item>
+    </string-array>
+    <string-array name="DDtoLenth">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Light Year</item>
+    </string-array>
+
+    <string-array name="DDfromWeight">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Metric Ton</item>
+        <item>Long Ton</item>
+        <item>Short Ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Carat</item>
+        <item>Atomic Mass Unit</item>
+    </string-array>
+    <string-array name="DDtoWeight">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Metric Ton</item>
+        <item>Long Ton</item>
+        <item>Short Ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Carat</item>
+        <item>Atomic Mass Unit</item>
+    </string-array>
+
+    <string-array name="DDfromTemp">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="DDtoTemp">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="DDfromTime">
+        <item>Second</item>
+        <item>Millisecond</item>
+        <item>Microsecond</item>
+        <item>Nanosecond</item>
+        <item>Picosecond</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="DDtoTime">
+        <item>Second</item>
+        <item>Millisecond</item>
+        <item>Microsecond</item>
+        <item>Nanosecond</item>
+        <item>Picosecond</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+</resources>
